@@ -23,6 +23,7 @@ Footer with social media links
 Smooth scroll and basic interactive effects using JavaScript
 
 🛠️ Technologies Used
+
 HTML5
 
 CSS3 (Flexbox/Grid)
